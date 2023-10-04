@@ -1,0 +1,10 @@
+D:\Năm ba hk1\Công nghệ .net\lab7\lab7\bin\Debug\lab7.exe.config
+D:\Năm ba hk1\Công nghệ .net\lab7\lab7\bin\Debug\lab7.exe
+D:\Năm ba hk1\Công nghệ .net\lab7\lab7\bin\Debug\lab7.pdb
+D:\Năm ba hk1\Công nghệ .net\lab7\lab7\obj\Debug\lab7.csprojResolveAssemblyReference.cache
+D:\Năm ba hk1\Công nghệ .net\lab7\lab7\obj\Debug\lab7.Form1.resources
+D:\Năm ba hk1\Công nghệ .net\lab7\lab7\obj\Debug\lab7.Properties.Resources.resources
+D:\Năm ba hk1\Công nghệ .net\lab7\lab7\obj\Debug\lab7.csproj.GenerateResource.Cache
+D:\Năm ba hk1\Công nghệ .net\lab7\lab7\obj\Debug\lab7.exe
+D:\Năm ba hk1\Công nghệ .net\lab7\lab7\obj\Debug\lab7.pdb
+D:\Năm ba hk1\Công nghệ .net\lab7\lab7\obj\Debug\lab7.HoSo.resources
